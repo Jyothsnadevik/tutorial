@@ -1,5 +1,5 @@
- alias,
-How was your day
+Hi,alias
+How was your day?
 
 going great.
 that's great to hear.
